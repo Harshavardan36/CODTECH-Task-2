@@ -1,4 +1,14 @@
-N
+Name: HARSHA VARDAN REDDY PALAKOLANU
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT08DS6664
+
+Domain: PYTHON PROGRAMMING
+
+Duration: AUGUST 5th,2024 to SEPTEMBER 5th,2024
+
+Mentor: NEELA SANTHOSH KUMAR
 
 Description:
 
@@ -51,4 +61,5 @@ Allow users to edit or delete grades
 Implement a more complex GPA calculation formula
 
 Store grades in a file or database for persistence
+
 Add more features to make the program more comprehensive and user-friendly
