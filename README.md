@@ -30,6 +30,9 @@ Display Grades:  Display all the grades, the average grade, and the letter grade
 
 User Interface:  Provide a simple text-based user interface to interact with the program.
 
+![2](https://github.com/user-attachments/assets/f93cc9ea-dfcc-455c-99b7-aad3c7884503)
+
+
 Technical Details:
 
 Programming Language:  Python 3.x
